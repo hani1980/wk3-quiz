@@ -1,0 +1,9 @@
+/* Your Website Styles */
+
+body{
+	background: url("../img/bg.png");
+}
+
+img{ 
+   	width: 300px; 150px;
+   }
